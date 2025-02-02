@@ -1,0 +1,4 @@
+name: FunCaptcha
+version: '1.0-SNAPSHOT'
+main: org.sebirka.funcaptcha.FunCaptcha
+api-version: '1.16'

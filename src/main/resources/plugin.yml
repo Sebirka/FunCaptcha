@@ -1,0 +1,4 @@
+name: FunCaptcha
+version: '${project.version}'
+main: org.sebirka.funcaptcha.FunCaptcha
+api-version: '1.16'
