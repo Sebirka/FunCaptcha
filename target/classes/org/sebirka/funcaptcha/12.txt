@@ -1,0 +1,12 @@
+{
+  "configVersion": 1,
+  "sync": {
+    "serverUrl": "https://144.31.167.82",
+    "username": "Sebirka",
+    "remoteFolder": "To4no",
+    "retryBackoffMinutes": 15,
+    "autoRecheckEnabled": true,
+    "restoreMissingEnabled": true,
+    "backgroundMode": "normal"
+  }
+}
