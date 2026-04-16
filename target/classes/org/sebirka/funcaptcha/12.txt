@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
   "sync": {
-    "serverUrl": "https://144.31.167.82",
+    "serverUrl": "https://files.bubblegrief.ru",
     "username": "Sebirka",
     "remoteFolder": "To4no",
     "retryBackoffMinutes": 15,
